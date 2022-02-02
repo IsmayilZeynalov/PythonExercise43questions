@@ -32,7 +32,7 @@ else:
     print("Ededin icinde butun reqemler var")
     
     
- #(4)Nömrələrin qiymətlərini yoxlayan funksiya yazın
+#(4)Nömrələrin qiymətlərini yoxlayan funksiya yazın
 
 nomre , emsal = input("Nomre: ").strip(), 0
 if nomre[0:2] == "10" or nomre[0:2] == "77" or nomre[0:2] == 90:
